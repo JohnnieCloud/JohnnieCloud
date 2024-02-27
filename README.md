@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on AI & Cloud projects.
 - 📫 How to reach me in the Cloud ☁️
-- ⚡ Fun fact: I love music 🎵🎶
+- ⚡ Fun fact: I love video games 🎮🕹️
 
 <!---
 JohnnieCloud/JohnnieCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
